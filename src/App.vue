@@ -18,6 +18,7 @@
             <v-spacer></v-spacer>
             <v-btn
                 depressed
+                small
                 color="blue"
                 @click.stop="changeDrawer"
                 class="hidden-lg-and-up"
