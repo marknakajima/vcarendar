@@ -3,7 +3,7 @@ Calendar scheduler made with Vuetify with recurring events using RRule and Vuex 
 
 ## Demo
 
-[Online Demo](https://marknakajima.github.io/carendar/)
+[Online Demo](https://marknakajima.github.io/vcarendar/)
 
 ![](https://github.com/marknakajima/public_assets/blob/master/images/carendar_gif.gif)
 
