@@ -265,10 +265,12 @@ export default {
     methods: {
         ...mapActions(["updateSnackMessage"]),
         ...mapActions("storeCalendar", ["updateSelectedPerson"]),
+        ...mapMutations(["drawerChange"]),
         ...mapMutations("storeCalendar", ["ADD_NEW_TEMPORARY_PERSON"]),
         async eventsByName(name, type) {
             await this.updateSelectedPerson({ name, type });
             this.$emit("selectedPerson");
+            this.drawerChange();
         },
         checkDuplicateName(name, type) {
             return this[type].includes(name);
