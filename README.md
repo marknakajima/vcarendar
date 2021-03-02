@@ -40,5 +40,11 @@ npm run build
 npm run lint
 ```
 
+### Special thanks
+
+- [https://github.com/bmoeskau/Extensible/blob/master/recurrence-overview.md](https://github.com/bmoeskau/Extensible/blob/master/recurrence-overview.md)
+
+
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
