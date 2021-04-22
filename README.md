@@ -1,5 +1,5 @@
 # Vuetify Carendar
-Calendar scheduler made with Vuetify with recurring events using RRule and Vuex state management specifically tailored for caregiver/client relationships
+VCarendar is a calendar scheduler tailored for scheduling caregivers to clients made with Vuetify. It supports recurring events, one time events, calculation of total hours/shifts and outputting the calendar as a PDF 
 
 ## Demo
 
