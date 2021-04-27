@@ -5,7 +5,7 @@ VCarendar is a calendar scheduler tailored for scheduling caregivers to clients 
 
 [Online Demo](https://marknakajima.github.io/vcarendar/)
 
-![](https://github.com/marknakajima/public_assets/blob/master/images/carendar_gif.gif)
+![](https://github.com/marknakajima/public_assets/blob/master/images/vcarendar/carendar_gif.gif)
 
 ## Features
 - Set recurring events such as "Every week on Thursday & Friday at 9am to 4pm", "Every other week on Monday at 12pm to 9pm" using RRule
